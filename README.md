@@ -1,9 +1,9 @@
 # Serbia's Registry of Medical Supplies - Data Quality
 This is an assignment project template for 3AP candidates that evaluates OOP and data analysis skills of a candidate.
 ##  Prerequisites :school_satchel:
-To fulfil this assignment you will need Java 8, Maven, Git and a GitHub Account :octopus:. You can use an IDE or source editor of your choosing.
+To fulfil this assignment you will need Java 8 (or higher), Maven, Git and a GitHub Account :octopus:. You can use an IDE or source editor of your choosing.
 ### Java installation
-* To install Java 8 follow these [instructions] (http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+* To install Java 8 follow these [instructions] (http://www.oracle.com/technetwork/java/javase/downloads/index.html) or see any open source variant.
 
 ### Maven installation
 * To install maven follow these [instructions](https://maven.apache.org/install.html)
