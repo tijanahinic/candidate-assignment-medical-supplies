@@ -54,7 +54,7 @@ Many of the rows found in the registry .csv contain something similar to __Model
 Think about how you would extract and model this new information and we can discuss it later.
 
 ## Hand in the assignment :shipit:
-If you are happy with your solution and all provided tests pass, please create a new [Pull request](https://github.com/3AP-AG/candidate-assignments/compare), but do not merge it to master.
+If you are happy with your solution and all provided tests pass, please create a new [Pull request](https://github.com/3AP-AG/candidate-assignment-medical-supplies/compare), but do not merge it to master.
 Use the description part of your pull request to explain anything you would want the reviewer to know.
 Write a few sentences regarding Assignment 4 as well in the description.
 
