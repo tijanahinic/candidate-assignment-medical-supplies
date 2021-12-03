@@ -1,9 +1,9 @@
 # Serbia's Registry of Medical Supplies - Data Quality
 This is an assignment project template for 3AP candidates that evaluates OOP and data analysis skills of a candidate.
 ##  Prerequisites :school_satchel:
-To fulfil this assignment you will need Java 8 (or higher), Maven, Git and a GitHub Account :octopus:. You can use an IDE or source editor of your choosing.
+To fulfil this assignment you will need Java 8, Maven, Git and a GitHub Account :octopus:. You can use an IDE or source editor of your choosing.
 ### Java installation
-* To install Java 8 follow these [instructions] (http://www.oracle.com/technetwork/java/javase/downloads/index.html) or see any open source variant.
+* To install Java 8 follow these [instructions] (http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
 ### Maven installation
 * To install maven follow these [instructions](https://maven.apache.org/install.html)
@@ -54,7 +54,7 @@ Many of the rows found in the registry .csv contain something similar to __Model
 Think about how you would extract and model this new information and we can discuss it later.
 
 ## Hand in the assignment :shipit:
-If you are happy with your solution and all provided tests pass, please create a new [Pull request](https://github.com/3AP-AG/candidate-assignment-medical-supplies/compare), but do not merge it to master.
+If you are happy with your solution and all provided tests pass, please create a new [Pull request](https://github.com/3AP-AG/candidate-assignments/compare), but do not merge it to master.
 Use the description part of your pull request to explain anything you would want the reviewer to know.
 Write a few sentences regarding Assignment 4 as well in the description.
 
