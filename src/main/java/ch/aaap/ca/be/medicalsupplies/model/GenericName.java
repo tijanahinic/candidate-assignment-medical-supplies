@@ -9,8 +9,6 @@ public class GenericName {
 	private String category3;
 	private String category4;
 	
-	private String primaryCategory;
-	
 	public GenericName() {}
 	
 	public GenericName(Long id, String name, String category1, String category2, String category3, String category4) {
@@ -71,19 +69,10 @@ public class GenericName {
 		this.category4 = category4;
 	}
 
-	public String getPrimaryCategory() {
-		return primaryCategory;
-	}
-
-	public void setPrimaryCategory(String primaryCategory) {
-		this.primaryCategory = primaryCategory;
-	}
-
 	@Override
 	public String toString() {
 		return "GenericName [id=" + id + ", name=" + name + ", category1=" + category1 + ", category2=" + category2
-				+ ", category3=" + category3 + ", category4=" + category4 + ", primaryCategory=" + primaryCategory
-				+ "]";
+				+ ", category3=" + category3 + ", category4=" + category4 + "]";
 	}
 
 	
